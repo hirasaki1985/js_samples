@@ -9,7 +9,6 @@ module.exports = function (grunt) {
         // ファイルの設定
         files: {
           // コンパイル後のjsファイル: コンパイル前のtsファイル
-          'js/crontab.js': 'ts/crontab.ts',
           'js/csv.js': 'ts/csv.ts',
           'js/timer.js': 'ts/timer.ts'
         }
