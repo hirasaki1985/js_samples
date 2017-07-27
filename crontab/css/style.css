@@ -1,0 +1,14 @@
+#importCSV {
+  border: medium solid black;
+  width:200px;
+  height:50px;
+}
+
+#LEDlist {
+  border: medium solid black;
+}
+
+#LEDlist li{
+  width:100px;
+  height:20px;
+}

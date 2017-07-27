@@ -1,0 +1,5 @@
+TIME(sec),LED1,LED2,LED3,LED4
+1000,,red,,
+3000,blue,,,
+4000,green,yellow,,,
+2000,,,,black,
